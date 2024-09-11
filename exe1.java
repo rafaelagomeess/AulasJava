@@ -30,5 +30,7 @@ public class exe1 {
 
 
         System.out.println("Sua média é:\n" + media);
+
+        leitura.close();
     }
 }
