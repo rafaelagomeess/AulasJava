@@ -62,6 +62,8 @@ public class aula6B {
                 default:
                 System.out.println("Estado Invalido");
 
+            leitura.close();
+
 
         }
     }
